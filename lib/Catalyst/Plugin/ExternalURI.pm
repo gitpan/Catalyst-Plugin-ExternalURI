@@ -1,6 +1,6 @@
 package Catalyst::Plugin::ExternalURI;
 {
-  $Catalyst::Plugin::ExternalURI::VERSION = '0.01';
+  $Catalyst::Plugin::ExternalURI::VERSION = '0.02';
 }
 
 use Moose::Role;
@@ -79,7 +79,7 @@ Catalyst::Plugin::ExternalURI - Rewrite URLs generated with uri_for
 
 =head1 VERSION
 
-Version 0.001
+Version 0.02
 
 =head1 SYNOPSIS
 

@@ -2,7 +2,7 @@ NAME
     Catalyst::Plugin::ExternalURI - Rewrite URLs generated with uri_for
 
 VERSION
-    Version 0.001
+    Version 0.02
 
 SYNOPSIS
     Include ExternalURI in your Catalyst Plugin list to activate it
